@@ -12,6 +12,9 @@ The economic feasibility study employs the Lang method to calculate direct produ
 
 Throughout the project, visualization and documentation were accomplished using Microsoft Office suite (Word, Excel, PowerPoint) and Visio, ensuring clear and professional presentation of findings.
 
+This project demonstrates advanced capabilities in process simulation, design, and economic analysis of complex chemical engineering systems, showcasing proficiency in industry-standard tools and methodologies.
+
+
 ## Project Highlights
 
 - Comprehensive market analysis of syngas production and utilization
@@ -71,11 +74,6 @@ This repository is organized into the following directories:
 
 ## Contact
 
-For any questions, collaborations, or further information, please feel free to reach out:
-
-- GitHub: [https://github.com/Pouria-MK](https://github.com/Pouria-MK)
-- Email: pooriamotahari@gmail.com
+For any queries, feel free to reach out via email at [pooriamotahari@gmail.com](mailto:pooriamotahari@gmail.com) or through [GitHub](https://github.com/Pouria-MK).
 
 ---
-
-This project demonstrates advanced capabilities in process simulation, design, and economic analysis of complex chemical engineering systems, showcasing proficiency in industry-standard tools and methodologies.
