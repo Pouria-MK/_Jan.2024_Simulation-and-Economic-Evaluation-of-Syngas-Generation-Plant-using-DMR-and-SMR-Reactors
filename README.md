@@ -1,9 +1,0 @@
-# Simulation and Economic Evaluation of Syngas Generation Plant Using DMR/SMR Reactors and Carbon Capture Unit
-
-This project presents the simulation and economic evaluation of a syngas generation plant utilizing Dry Methane Reforming (DMR) and Steam Methane Reforming (SMR) reactors, integrated with a carbon capture unit. Syngas, a mixture of hydrogen (H₂) and carbon monoxide (CO), is a key intermediate in various industrial applications such as fuel production and chemical synthesis. The DMR and SMR reactions offer different routes for syngas production with different H₂ to CO ratio by utilizing methane as the primary feedstock, with the former providing a CO₂ utilization advantage and the latter offering a higher hydrogen yield.
-
-In this work, a detailed simulation of the plant is carried out using  ASPEN HYSYS, focusing on optimizing operating conditions to achieve high syngas ratio, yield and efficiency. The integration of a carbon capture unit aims to reduce the environmental impact by capturing CO₂ emissions from the process with various solvents.
-
-An economic evaluation of the plant is performed to assess the feasibility and profitability of the process, considering capital investment, operational costs, and potential revenue from syngas and CO₂ by-products. Sensitivity analysis is also conducted to explore the impact of key variables such as feedstock prices, carbon tax, and market demand on the overall economic performance.
-
-The results provide insights into the technical, economic and future viability of syngas production using DMR and SMR reactors, highlighting the role of carbon capture technologies in making the process more sustainable and environmentally friendly. This study offers a comprehensive framework for designing and evaluating syngas generation plants for industrial applications.
